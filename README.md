@@ -4,7 +4,6 @@ I'm Nuno and here's some things you might want to know about me.
 
 - 🏠 I'm currently living in Porto, Portugal </br>
 - 🎓 Completed my thesis on Online Handwriting Recognition for Proofs of Calculational Method </br>
-- 🌱 I’m currently learning Golang </br>
 - ✉️ Feel free to contact me: n.resende2000@gmail.com </br>
 
 ##  Languages and Tools <br />
