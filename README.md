@@ -7,12 +7,12 @@ Within a large-scale project, I navigate the complexities of a **3.5M+ LOC** mon
 
 ### 📝 About Me ###
 
-- 👨‍💻 Software Engineer (Fullstack)
-- 🎓 Master's in Informatics & Computing Engineering from FEUP (Faculdade da Engenharia da Universidade do Porto)
-- 🎯 Passionate about building robust, scalable, high-performance applications that tackle real-world problems
-- 🧠 Strong communicator, bridging the gap between tech and business by simplifying complex topics
-- 📖 Currently learning microservices architecture
-- ⚡ Outside of work, you’ll find me teaching piano, reading fantasy, hitting the gym, or grabbing a beer with friends
+- 👨‍💻 Backend Engineer (Fullstack experience)
+- 🎓 Master's in **Informatics & Computing Engineerin**g from FEUP (Faculdade da Engenharia da Universidade do Porto)
+- 🎯 Passionate about building **robust**, **scalable**, **high-performance** applications that tackle **real-world problems**
+- 🧠 **Strong communicator**, bridging the gap between tech and business by **simplifying complex topics**
+- 📖 Currently learning **microservices architecture**
+- ⚡ Outside of work, you’ll find me **teaching piano**, **reading fantasy**, **hitting the gym**, or grabbing a **beer with friends**
 - 🌍 Languages: Portuguese, English, German, and some French
 - 💬 Feel free to contact me! [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nunores)
 
