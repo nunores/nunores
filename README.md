@@ -1,7 +1,8 @@
 ### 👋 Hi there! 👋
 
 I’m **Nuno Resende**, a dedicated **Backend Engineer** with a background in Fullstack development, driven by curiosity and a constant desire to improve and challenge the status quo. <br><br>
-Currently, I work at **Kuehne + Nagel**, developing a global logistics and supply chain management system with **Java ☕ (Spring 🌿)** and **Angular 🅰️**. Within a large-scale project, I navigate the complexities of a **3.5M+ LOC** monolithic architecture, gaining deep insights into customer needs while enhancing **maintainability** and **efficiency**.
+Currently, I work at **Kuehne + Nagel**, developing a global logistics and supply chain management system with **Java ☕ (Spring 🌿)** and **Angular 🅰️**. <br>
+Within a large-scale project, I navigate the complexities of a **3.5M+ LOC** monolithic architecture, gaining deep insights into customer needs while enhancing **maintainability** and **efficiency**.
 
 ### 📝 About Me ###
 
