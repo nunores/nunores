@@ -7,7 +7,7 @@ Within a large-scale project, I navigate the complexities of a **3.5M+ LOC** mon
 
 ### 📝 About Me ###
 
-- 👨‍💻 Backend Engineer (Fullstack experience)
+- 👨‍💻 **Backend Engineer** (Fullstack experience)
 - 🎓 Master's in **Informatics & Computing Engineerin**g from FEUP (Faculdade da Engenharia da Universidade do Porto)
 - 🎯 Passionate about building **robust**, **scalable**, **high-performance** applications that tackle **real-world problems**
 - 🧠 **Strong communicator**, bridging the gap between tech and business by **simplifying complex topics**
